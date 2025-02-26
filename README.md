@@ -1,3 +1,5 @@
+origin: https://github.com/neilharvey/FileSignatures
+
 # FileSignatures
 
 [![nuget package](https://badge.fury.io/nu/FileSignatures.svg)](https://www.nuget.org/packages/FileSignatures)
